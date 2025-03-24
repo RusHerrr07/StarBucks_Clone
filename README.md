@@ -49,9 +49,11 @@
   </tr>
 </table>
 
-## Inspiration
+## For any queries, feel free to reach out:
 
-[Discord Compose clone by Anmol Verma](https://github.com/Anmol92verma/DiscordJetpackCompose)
+[LinkedIn: Prahlad Yadav](https://www.linkedin.com/in/prahlad-yadav-478040257/)
+[Email: prahlady444@gmail.com]
+
 
 
 
