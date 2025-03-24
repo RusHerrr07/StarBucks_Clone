@@ -51,8 +51,9 @@
 
 ## For any queries, feel free to reach out:
 
-[LinkedIn: Prahlad Yadav](https://www.linkedin.com/in/prahlad-yadav-478040257/)
-[Email: prahlady444@gmail.com]
+LinkedIn: Prahlad Yadav [Link ](https://www.linkedin.com/in/prahlad-yadav-478040257/)
+
+Email: prahlady444@gmail.com
 
 
 
